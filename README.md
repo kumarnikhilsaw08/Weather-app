@@ -1,15 +1,13 @@
-It's a  Simple Weather Application made by using HTML, CSS &amp; JavaScript.
+# 🌦 Weather App
 
-A simple and user-friendly weather application that provides real-time weather information for any city in the world.
+>A simple and user-friendly weather application using HTML, CSS &amp; JavaScript that provides real-time weather information for any city in the world.
 
-Features
-* Search weather by city name
-* Get current location weather (GPS support)
+## 🚀 Features
+### 1.🌍 Search weather by city name
+### 2.🌡 Displays temperature, humidity, wind speed, and weather condition
+### 3.☀ Dynamic icons & background based on weather condition
 
-  Tech Stack
 
-Frontend: HTML, CSS, JavaScript / React (depending on your implementation)
-
-API: OpenWeatherMap API (or any other weather API used)
-
-Hosting: Vercel / Netlify / Local server
+## 🛠 Tech Stack
+### *Frontend*: HTML, CSS, JavaScript
+### *API*: OpenWeatherMap API (or any other weather API used)
